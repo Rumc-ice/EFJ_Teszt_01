@@ -17,5 +17,9 @@ namespace EFJ_Teszt_01
             InitializeComponent();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
