@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9zRKaWY1LbujcmSdFR+I6IT3LUiQv6FVo1meColtzSU6q43TbMFyHOcvVXnrwvlH0SVrJnTFGQ73zzYfAVHk5w==",
+  "dgSpecHash": "mQ7tl1/RnNNF2miV36NB9FBBwOmGgrVpEWnqIBgpwmHMXCtxeJVKUoBu01oYsHmGMgZqZ4Ir3cagJQkHqlMm+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\EFJ_Teszt_01\\EFJ_Teszt_01\\EFJ_Teszt_01.csproj",
+  "projectFilePath": "C:\\Users\\user\\Source\\Repos\\EFJ_Teszt_01\\EFJ_Teszt_01\\EFJ_Teszt_01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
