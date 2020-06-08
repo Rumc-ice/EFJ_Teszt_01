@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EFJ_Teszt_01",
+    "\\EFJ_Teszt_01\\bin\\Release"
   ],
+  "SelectedNode": "\\EFJ_Teszt_01\\EFJ_Teszt_01.csproj",
   "PreviewInSolutionExplorer": false
 }
